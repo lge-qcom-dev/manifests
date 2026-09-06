@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="hardware/lge" name="lge-qcom-dev/android_hardware_lge" revision="lineage-23.2" remote="github" />
+  <project path="device/lge/caymanlm" name="lge-qcom-dev/android_device_lge_caymanlm" revision="lineage-23.2" remote="github" />
+  <project path="device/lge/sm7250-common" name="lge-qcom-dev/android_device_lge_sm7250-common" revision="lineage-23.2" remote="github" />
+  <project path="kernel/lge/sm7250" name="lge-qcom-dev/android_kernel_lge_sm7250" revision="lineage-23.2" remote="github" />
+  <project path="vendor/lge/caymanlm" name="lge-qcom-dev/proprietary_vendor_lge_caymanlm" revision="lineage-23.2" remote="github" />
+  <project path="vendor/lge/sm7250-common" name="lge-qcom-dev/proprietary_vendor_lge_sm7250-common" revision="lineage-23.2" remote="github" />
+</manifest>
+
