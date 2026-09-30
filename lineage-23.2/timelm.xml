@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="hardware/lge" name="lge-qcom-dev/android_hardware_lge" revision="lineage-23.2" remote="github" />
+  <project path="device/lge/timelm" name="lge-qcom-dev/android_device_lge_timelm" revision="lineage-23.2" remote="github" />
+  <project path="kernel/lge/sm8250" name="lge-qcom-dev/android_kernel_lge_sm8250" revision="lineage-23.2" remote="github" />
+  <project path="vendor/lge/timelm" name="lge-qcom-dev/proprietary_vendor_lge_timelm" revision="lineage-23.2" remote="github" />
+</manifest>
+
